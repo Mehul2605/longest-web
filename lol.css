@@ -1,0 +1,53 @@
+.lonely {
+	width: 0px;
+	padding:50px ;
+	border: 30px solid #b80000;
+	margin: 20px;
+	height: 26830900px;
+	font-size: 30px;
+} 
+
+.head {
+	color: white;
+	background-color:#b80000 ;
+	font-size: 50px;
+    font-family: agency FB;
+	padding: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #212121;
+  padding-top: 4px;
+}
+
+.topnav a {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 30px;
+}
+.topnav a:hover {
+
+}
+
+.textup {
+	color: white;
+	font-size: 20px;
+	font-family: agency FB;
+}
+.textdown {
+	color: white;
+	font-size: 20px;
+	font-family: agency FB;
+}
+
+.logo {
+	color: white;
+	font-size: 15px;
+}
+
+
+  
